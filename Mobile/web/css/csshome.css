@@ -1,0 +1,28 @@
+
+
+fieldset {margin:0px;}
+
+body{
+    background: cornsilk;
+}
+button {background-color:#4CAF50;color:white;border-width:thin;}   
+a {text-decoration:none;
+   background-color:DarkMagenta;
+   color:white;
+   border-style:solid;
+   border-width:thin;
+   padding:20px;
+   padding-left:80px;
+   padding-right:80px;
+   font-family:Times New Roman;
+   }
+   
+a#room{padding-right:95px;}
+
+a:hover{background-color:green;
+        color:Gainsboro;
+		font-size:15pt;
+		}
+td {padding:30px;
+   width:250px;
+   }
